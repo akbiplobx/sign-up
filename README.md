@@ -1,2 +1,2 @@
 # sign-up
-https://akbiplobs.github.io/sign-up/
+https://akbiplobx.github.io/sign-up/
